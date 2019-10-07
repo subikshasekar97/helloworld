@@ -1,3 +1,3 @@
 # helloworld
 prinln"aaa"
-def
+def man
